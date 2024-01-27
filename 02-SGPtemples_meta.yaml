@@ -1,0 +1,15 @@
+projectName: Chinese Temples in Singapore (2017)
+
+description: |
+  This dataset contains 834 locations of temples in Singapore that were presumed active in 2017. The vast majority of the sites are Chinese temples dedicated to Daoist or Buddhist deities. Shrines in "united temples" appear as individual entries. A few Tibetan and Theravādin Buddhist temples or centers are included as well. The data was collected 2005-2017 by Kenneth Dean, Guan Thye Hue, and their team. 
+  On united temples see Hue et al. 2022 (https://doi.org/10.3390/rel13070602).
+
+date: 2024-01-27
+
+contact: 
+
+credits: Kenneth Dean
+
+license:
+  name: CC-BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0/
