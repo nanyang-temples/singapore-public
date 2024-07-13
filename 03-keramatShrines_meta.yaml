@@ -1,0 +1,14 @@
+projectName: Keramat Shrines in Singapore (2022)
+
+description: |
+  The dataset contains the locations of c. 53 Keramat shrines, past and present. The data was extracted from "A Complete Catalog of Keramat in Singapore" by William L. Gibson, 2022. The catalog itself is available at https://www.academia.edu/88697484/Complete_Catalog_of_Keramat_in_Singapore (2024-07-13). The data was extracted by Fei Wu and Junlin Wang under supervision of Kenneth Dean and MB.
+
+date: 2024-07-13
+
+contact: William L. Gibson (cesasia21@gmail.com)
+
+credits: William L. Gibson, Fei Wu, Junlin Wang, KD, MB
+
+license:
+  name: CC-BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0/
